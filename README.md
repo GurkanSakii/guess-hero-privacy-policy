@@ -39,4 +39,4 @@ Any changes will be reflected on this page.
 ## Contact Us
 If you have any questions or suggestions about this Privacy Policy, please contact us at:
 
-📧 sakiigurkan@gmail.com
+📧 [sakiigurkan@gmail.com](mailto:sakiigurkan@gmail.com)
