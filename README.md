@@ -1,5 +1,5 @@
-# Privacy Policy – Guess: Who?
-Guess: Who? respects your privacy and is committed to protecting it. This Privacy Policy explains how information is collected, used, and disclosed when you use our mobile application.
+# Privacy Policy – Guess: The Character!
+Guess: The Character! respects your privacy and is committed to protecting it. This Privacy Policy explains how information is collected, used, and disclosed when you use our mobile application.
 
 ## Information We Collect
 We do not require users to create an account or directly provide personal information. However, the app may automatically collect certain information, including:
@@ -9,7 +9,7 @@ We do not require users to create an account or directly provide personal inform
 - Apple Game Center data such as leaderboard scores and achievements
 
 ## Advertising
-Guess: Who? uses Google AdMob to display advertisements. 
+Guess: The Character! uses Google AdMob to display advertisements. 
 AdMob may collect and use information such as device identifiers and usage data to provide personalized or non-personalized ads, in accordance with Google’s Privacy Policy and applicable data protection laws, including GDPR.
 
 On iOS devices, advertising identifiers are accessed only with the user’s permission through Apple’s App Tracking Transparency (ATT) framework.
@@ -17,10 +17,10 @@ On iOS devices, advertising identifiers are accessed only with the user’s perm
 ## Game Center
 The app uses Apple Game Center for leaderboards and achievements. 
 Game Center data is managed by Apple in accordance with Apple’s Privacy Policy. 
-Guess: Who? does not store or control personal data from Game Center services.
+Guess: The Character! does not store or control personal data from Game Center services.
 
 ## Children’s Information
-Guess: Who? is intended for a general audience and is not specifically directed toward children. 
+Guess: The Character! is intended for a general audience and is not specifically directed toward children. 
 We do not knowingly collect personally identifiable information from children under the age of 13. 
 Advertising displayed in the app complies with applicable laws and platform policies.
 
@@ -39,4 +39,4 @@ Any changes will be reflected on this page.
 ## Contact Us
 If you have any questions or suggestions about this Privacy Policy, please contact us at:
 
-📧 guesswhogameservices@gmail.com
+📧 sakiigurkan@gmail.com
